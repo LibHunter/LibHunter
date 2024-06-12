@@ -1,0 +1,154 @@
+lib: com.squareup.okhttp3.okhttp_3.0.0.dex
+similarity: 0.3371730050560563
+
+lib: com.squareup.okhttp3.okhttp_3.10.0.dex
+similarity: 0.7935677764333945
+
+lib: com.squareup.okhttp3.okhttp_3.11.0.dex
+similarity: 0.8607096950103221
+
+lib: com.squareup.okhttp3.okhttp_3.12.0.dex
+similarity: 0.9816638766691322
+
+lib: com.squareup.okhttp3.okhttp_3.12.1.dex
+similarity: 0.9812158469945356
+
+lib: com.squareup.okhttp3.okhttp_3.12.10.dex
+similarity: 0.9577178937873492
+
+lib: com.squareup.okhttp3.okhttp_3.12.11.dex
+similarity: 0.9549211119459053
+
+lib: com.squareup.okhttp3.okhttp_3.12.12.dex
+similarity: 0.9537606965921033
+
+lib: com.squareup.okhttp3.okhttp_3.12.13.dex
+similarity: 0.921278751266369
+
+lib: com.squareup.okhttp3.okhttp_3.12.2.dex
+similarity: 0.9452295470170347
+
+lib: com.squareup.okhttp3.okhttp_3.12.3.dex
+similarity: 0.9774322017826664
+
+lib: com.squareup.okhttp3.okhttp_3.12.4.dex
+similarity: 0.9448346949683134
+
+lib: com.squareup.okhttp3.okhttp_3.12.5.dex
+similarity: 0.9646265717315559
+
+lib: com.squareup.okhttp3.okhttp_3.12.6.dex
+similarity: 0.9628774691591614
+
+lib: com.squareup.okhttp3.okhttp_3.12.7.dex
+similarity: 0.9273927392739274
+
+lib: com.squareup.okhttp3.okhttp_3.12.8.dex
+similarity: 0.9273223836437431
+
+lib: com.squareup.okhttp3.okhttp_3.12.9.dex
+similarity: 0.9263787425716341
+
+lib: com.squareup.okhttp3.okhttp_3.13.0.dex
+similarity: 0.8248514398902941
+
+lib: com.squareup.okhttp3.okhttp_3.13.1.dex
+similarity: 0.8329919587316037
+
+lib: com.squareup.okhttp3.okhttp_3.14.0.dex
+similarity: 0.7050178537868822
+
+lib: com.squareup.okhttp3.okhttp_3.14.1.dex
+similarity: 0.7083724599030913
+
+lib: com.squareup.okhttp3.okhttp_3.14.2.dex
+similarity: 0.7083053252670102
+
+lib: com.squareup.okhttp3.okhttp_3.14.3.dex
+similarity: 0.6922095945388395
+
+lib: com.squareup.okhttp3.okhttp_3.14.4.dex
+similarity: 0.6949971894322653
+
+lib: com.squareup.okhttp3.okhttp_3.14.5.dex
+similarity: 0.6935874958033349
+
+lib: com.squareup.okhttp3.okhttp_3.14.6.dex
+similarity: 0.6905143794994218
+
+lib: com.squareup.okhttp3.okhttp_3.14.7.dex
+similarity: 0.692573981016192
+
+lib: com.squareup.okhttp3.okhttp_3.14.8.dex
+similarity: 0.6921273904308356
+
+lib: com.squareup.okhttp3.okhttp_3.14.9.dex
+similarity: 0.6936422655025745
+
+lib: com.squareup.okhttp3.okhttp_3.4.0.dex
+similarity: 0.3731063829787234
+
+lib: com.squareup.okhttp3.okhttp_3.8.1.dex
+similarity: 0.5562293947657617
+
+lib: com.squareup.okhttp3.okhttp_3.9.0.dex
+similarity: 0.6586897287051298
+
+lib: com.squareup.okhttp3.okhttp_3.9.1.dex
+similarity: 0.6705813270698767
+
+lib: com.squareup.okhttp3.okhttp_4.10.0-RC1.dex
+similarity: 0.11263902461724604
+
+lib: com.squareup.okhttp3.okhttp_4.2.1.dex
+similarity: 0.13574768206672477
+
+lib: com.squareup.okhttp3.okhttp_4.2.2.dex
+similarity: 0.12595219332807986
+
+lib: com.squareup.okhttp3.okhttp_4.3.0.dex
+similarity: 0.12713007233051368
+
+lib: com.squareup.okhttp3.okhttp_4.3.1.dex
+similarity: 0.12123444059807027
+
+lib: com.squareup.okhttp3.okhttp_4.4.0.dex
+similarity: 0.12423734169522838
+
+lib: com.squareup.okhttp3.okhttp_4.4.1.dex
+similarity: 0.12652368835574943
+
+lib: com.squareup.okhttp3.okhttp_4.5.0-RC1.dex
+similarity: 0.1109575330060531
+
+lib: com.squareup.okhttp3.okhttp_4.5.0.dex
+similarity: 0.11213663827965174
+
+lib: com.squareup.okhttp3.okhttp_4.6.0.dex
+similarity: 0.11311168344649965
+
+lib: com.squareup.okhttp3.okhttp_4.8.0.dex
+similarity: 0.11167145291961429
+
+lib: com.squareup.okhttp3.okhttp_4.8.1.dex
+similarity: 0.11071420233008802
+
+lib: com.squareup.okhttp3.okhttp_4.9.0.dex
+similarity: 0.11368931134097475
+
+lib: com.squareup.okhttp3.okhttp_4.9.1.dex
+similarity: 0.11406675828655284
+
+lib: com.squareup.okhttp3.okhttp_4.9.2.dex
+similarity: 0.11229361216552945
+
+lib: com.squareup.okhttp3.okhttp_4.9.3.dex
+similarity: 0.1110052073647015
+
+lib: com.squareup.okhttp_okhttp_2.7.4.dex
+similarity: 0.3405507389605139
+
+lib: com.squareup.okhttp_okhttp_2.7.5.dex
+similarity: 0.3324255547122639
+
+time: 50s
